@@ -1,0 +1,15 @@
+
+streamlit
+# insightface>=0.7.3
+onnxruntime>=1.17.1      # Note: Change to onnxruntime-gpu for Nvidia GPU support
+faiss-cpu>=1.8.0         # Note: Change to faiss-gpu for Nvidia GPU support
+opencv-python>=4.9.0
+numpy>=1.26.4
+
+scikit-learn>=1.4.1.post1
+matplotlib>=3.8.3
+
+torch>=2.2.1
+torchvision>=0.17.1
+facenet-pytorch>=2.5.3
+Pillow>=10.2.0
