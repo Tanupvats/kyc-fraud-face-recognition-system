@@ -124,4 +124,6 @@ python tests/visualize_result.py
 * **Liveness:** For production deployment, ensure the `_liveness_check` in `preprocessing.py` is linked to a validated Anti-Spoofing ONNX model.
 * **Auditability:** Every transaction generates a unique `TX_ID` logged in the audit trail for fraud investigation.
 
+## Author
 
+**Tanup Vats**
