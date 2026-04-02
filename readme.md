@@ -2,7 +2,6 @@
 
 This repository contains a production-grade, modular biometric identity system designed for **Real-time Authentication (Live $\leftrightarrow$ Live)** and **KYC/Onboarding Verification (Live $\leftrightarrow$ Doc)**. It utilizes state-of-the-art Deep Learning models for face detection, alignment, and high-dimensional embedding extraction.
 
----
 ## Demo
 
 [![Demo face Recognition](Face_recog_demo.gif)]()
